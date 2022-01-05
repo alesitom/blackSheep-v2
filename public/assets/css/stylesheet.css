@@ -1,0 +1,42 @@
+body{
+    font-family: 'Overpass', sans-serif;
+    text-rendering: optimizeLegibility;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Overpass', sans-serif;
+    text-rendering: optimizeLegibility;
+}
+
+.my_blue{color:#2C3D7C;}
+.my_violet{color:#342C81;}
+.my_light_violet{color:#502D86;}
+.my_purple{color:#6E2D8A;}
+.my_light_purple{color:#8E2D8F;}
+.my_dark_gray{color:#191919;}
+.my_gray{color:#323232;}
+.my_dark_green{color:#317126;}
+.my_green{color:#419932;}
+.my_light_green{color:#50C03D;}
+
+.my_blue_background{background-color:#2C3D7C;}
+.my_violet_background{background-color:#342C81;}
+.my_light_violet_background{background-color:#502D86;}
+.my_purple_background{background-color:#6E2D8A;}
+.my_light_purple_background{background-color:#8E2D8F;}
+.my_dark_gray_background{background-color:#191919;}
+.my_gray_background{background-color:#323232;}
+.my_dark_green_background{background-color:#317126;}
+.my_green_background{background-color:#419932;}
+.my_light_green_background{background-color:#50C03D;}
+
+
+
+.error_form{
+    font-family: 'Overpass', sans-serif;
+    color:red;}
+
+.input_form_error{
+    border:1px solid red;}
+
+.mono{
+    font-family: 'Overpass Mono', monospace;}
