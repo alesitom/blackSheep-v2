@@ -14,3 +14,4 @@ This is a web app created with CodeIgniter, a framework with MVC pattern. In thi
 Other libraries:
 ### phpMyAdmin
 ### jQuery
+### Bootstrap
